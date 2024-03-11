@@ -30,9 +30,10 @@ function dots(){
   point(random(0, 150), random(0,100));
   point(random(0, 150), random(0, 300));
   counter++;
-  if (counter >= 5){
+  if (counter >= 10){
 	clearInterval(countInterval);
     counter = 0;
+    background(220);
     countInterval = setInterval(dots, 1000);
     }
 }
