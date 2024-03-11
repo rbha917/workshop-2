@@ -1,6 +1,6 @@
 # workshop-2
 
-### Link to sketch:
+### Link to sketch: https://rbha917.github.io/workshop-2/
 
 ## setTimeout
 - setTimeout (function, time in ms) = execute  function at a specific time e.g. (makeRedSquare, 2000)
