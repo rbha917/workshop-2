@@ -26,6 +26,8 @@
 	counter = 0;
 	}
 }
+- Issues with getting setInterval to stop and reset
+	- added in "background (220)" after line 35 because this would clear the canvas
 
 ## Experimenting
 - point(x, y) = position, stroke(colour), strokeWeight(z) = size
